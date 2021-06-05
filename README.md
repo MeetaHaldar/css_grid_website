@@ -1,3 +1,2 @@
 # css_grid_website
-
-initial
+![plot](./website.png)
