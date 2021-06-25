@@ -13,7 +13,11 @@
 <hr>
 
 
+<h3> About page 📄 </h3>
 
 
+![image](https://user-images.githubusercontent.com/69325431/123465950-5f320f80-d60c-11eb-8e39-0477c82010ea.png)
 
+
+<hr>
 
